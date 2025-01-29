@@ -1,0 +1,24 @@
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\bin\Debug\VarlikKatmani.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\bin\Debug\VarlikKatmani.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\obj\Debug\TeknolojiMagazasi.VarlikKatmani.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\obj\Debug\TeknolojiMagazasi.VarlikKatmani.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\obj\Debug\VarlikKatmani.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\obj\Debug\VarlikKatmani.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\bin\Debug\VarlikKatmani.dll.config
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\bin\Debug\EntityFramework.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\bin\Debug\EntityFramework.xml
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\VarlikKatmani\obj\Debug\TeknolojiMagazasi.VarlikKatmani.csproj.CopyComplete
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\bin\Debug\VarlikKatmani.dll.config
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\bin\Debug\VarlikKatmani.dll
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\bin\Debug\VarlikKatmani.pdb
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\bin\Debug\EntityFramework.dll
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\bin\Debug\EntityFramework.xml
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\obj\Debug\TeknolojiMagazasi.VarlikKatmani.csproj.AssemblyReference.cache
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\obj\Debug\TeknolojiMagazasi.VarlikKatmani.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\obj\Debug\Teknoloj.73076E54.Up2Date
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\obj\Debug\VarlikKatmani.dll
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\VarlikKatmani\obj\Debug\VarlikKatmani.pdb

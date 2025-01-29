@@ -1,0 +1,73 @@
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\TeknolojiMagazasi.exe.config
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\TeknolojiMagazasi.exe
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\TeknolojiMagazasi.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\EntityLayer.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\VarlikKatmani.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\EntityLayer.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\VarlikKatmani.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.SunumKatmani.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.SunumKatmani.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.FrmLogin.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.Properties.Resources.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.SunumKatmani.csproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.SunumKatmani.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.SunumKatmani.csproj.CopyComplete
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.exe
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\EntityLayer.dll.config
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\VarlikKatmani.dll.config
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\TeknoDB.mdf
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\TeknoDB_log.ldf
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmUrunList.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmUrun.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmUrunGuncelle.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\CircularProgressBar.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\WinFormAnimation.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\CircularProgressBar.xml
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmSatis.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmMusteri.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmSil.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmSatısAdd.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmAyarlar.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmMusteriEkle.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmMusteriSil.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmGuncelle.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmToplam.resources
+C:\Users\abdul\OneDrive\Masaüstü\Abdulkadir Akansu\Görsel II Proje\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmToplamGuncelle.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\TeknoDB.mdf
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\TeknolojiMagazasi.exe.config
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\TeknolojiMagazasi.exe
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\TeknolojiMagazasi.pdb
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\CircularProgressBar.dll
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\EntityLayer.dll
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\VarlikKatmani.dll
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\WinFormAnimation.dll
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\EntityLayer.pdb
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\EntityLayer.dll.config
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\VarlikKatmani.pdb
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\VarlikKatmani.dll.config
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\CircularProgressBar.xml
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.SunumKatmani.csproj.AssemblyReference.cache
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmSil.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmToplam.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmToplamGuncelle.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmUrun.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmUrunGuncelle.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.AdminViews.FrmUrunList.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.FrmLogin.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmAyarlar.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmGuncelle.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmMusteri.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmMusteriEkle.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmSatis.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmSatısAdd.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.KasiyerViews.FrmMusteriSil.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.Properties.Resources.resources
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.SunumKatmani.csproj.GenerateResource.cache
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.SunumKatmani.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\Teknoloj.C0145B95.Up2Date
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.exe
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\obj\Debug\TeknolojiMagazasi.pdb
+C:\Users\abdul\Downloads\Compressed\TeknolojiMagazasi\TeknolojiMagazasi\TeknolojiMagazasi\bin\Debug\TeknoDB_log.ldf

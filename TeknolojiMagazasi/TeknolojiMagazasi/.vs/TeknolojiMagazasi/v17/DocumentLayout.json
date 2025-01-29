@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34722364-F76A-49B5-83EF-15320F00E70D}|EntityLayer\\TeknolojiMagazasi.Veritaban\u0131ErisimKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\entitylayer\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34722364-F76A-49B5-83EF-15320F00E70D}|EntityLayer\\TeknolojiMagazasi.Veritaban\u0131ErisimKatmani.csproj|solutionrelative:entitylayer\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TeknolojiMagazasiDB/True/SqlTable/dbo.tblKullan\u0131c\u0131lar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|c:\\users\\abdul\\downloads\\compressed\\teknolojimagazasi\\teknolojimagazasi\\teknolojimagazasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\varlikkatmani\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|solutionrelative:varlikkatmani\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34722364-F76A-49B5-83EF-15320F00E70D}|EntityLayer\\TeknolojiMagazasi.Veritaban\u0131ErisimKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\entitylayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34722364-F76A-49B5-83EF-15320F00E70D}|EntityLayer\\TeknolojiMagazasi.Veritaban\u0131ErisimKatmani.csproj|solutionrelative:entitylayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34722364-F76A-49B5-83EF-15320F00E70D}|EntityLayer\\TeknolojiMagazasi.Veritaban\u0131ErisimKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\entitylayer\\repository\\urunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34722364-F76A-49B5-83EF-15320F00E70D}|EntityLayer\\TeknolojiMagazasi.Veritaban\u0131ErisimKatmani.csproj|solutionrelative:entitylayer\\repository\\urunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\varlikkatmani\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|solutionrelative:varlikkatmani\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\varlikkatmani\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|solutionrelative:varlikkatmani\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\varlikkatmani\\toplamtutar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|solutionrelative:varlikkatmani\\toplamtutar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\varlikkatmani\\sat\u0131sdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|solutionrelative:varlikkatmani\\sat\u0131sdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\varlikkatmani\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|solutionrelative:varlikkatmani\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\varlikkatmani\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52B2734-6F49-48F7-8803-B0B5599392C5}|VarlikKatmani\\TeknolojiMagazasi.VarlikKatmani.csproj|solutionrelative:varlikkatmani\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\kasiyerviews\\frmsat\u0131sadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\kasiyerviews\\frmsat\u0131sadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\kasiyerviews\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\kasiyerviews\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\kasiyerviews\\frmmusterisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\kasiyerviews\\frmmusterisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\kasiyerviews\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\kasiyerviews\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\kasiyerviews\\frmmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\kasiyerviews\\frmmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\kasiyerviews\\frmguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\kasiyerviews\\frmguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\kasiyerviews\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\kasiyerviews\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\adminviews\\frmurunlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\adminviews\\frmurunlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\adminviews\\frmurunguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\adminviews\\frmurunguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\adminviews\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\adminviews\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\adminviews\\frmtoplamguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\adminviews\\frmtoplamguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\adminviews\\frmtoplam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\adminviews\\frmtoplam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\teknolojimagazasi\\adminviews\\frmsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16810CDF-07AE-4BAC-AA09-67FEA3EF9DE8}|TeknolojiMagazasi\\TeknolojiMagazasi.SunumKatmani.csproj|solutionrelative:teknolojimagazasi\\adminviews\\frmsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.tblKullan\u0131c\u0131lar [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TeknolojiMagazasiDB/True/SqlTable/dbo.tblKullan\u0131c\u0131lar.sql",
+              "ToolTip": "dbo.tblKullan\u0131c\u0131lar [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-29T15:54:42.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\Program.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\Program.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\Program.cs",
+              "RelativeToolTip": "TeknolojiMagazasi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UrunRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\EntityLayer\\Repository\\UrunRepository.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Repository\\UrunRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\EntityLayer\\Repository\\UrunRepository.cs",
+              "RelativeToolTip": "EntityLayer\\Repository\\UrunRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\Urun.cs",
+              "RelativeDocumentMoniker": "VarlikKatmani\\Urun.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\Urun.cs",
+              "RelativeToolTip": "VarlikKatmani\\Urun.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA8wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\EntityLayer\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\EntityLayer\\UnitOfWork.cs",
+              "RelativeToolTip": "EntityLayer\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\EntityLayer\\DBContext.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\DBContext.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\EntityLayer\\DBContext.cs",
+              "RelativeToolTip": "EntityLayer\\DBContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sat\u0131sDetay.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\Sat\u0131sDetay.cs",
+              "RelativeDocumentMoniker": "VarlikKatmani\\Sat\u0131sDetay.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\Sat\u0131sDetay.cs",
+              "RelativeToolTip": "VarlikKatmani\\Sat\u0131sDetay.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\Musteri.cs",
+              "RelativeDocumentMoniker": "VarlikKatmani\\Musteri.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\Musteri.cs",
+              "RelativeToolTip": "VarlikKatmani\\Musteri.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\Marka.cs",
+              "RelativeDocumentMoniker": "VarlikKatmani\\Marka.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\Marka.cs",
+              "RelativeToolTip": "VarlikKatmani\\Marka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kullan\u0131c\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\Kullan\u0131c\u0131.cs",
+              "RelativeDocumentMoniker": "VarlikKatmani\\Kullan\u0131c\u0131.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\Kullan\u0131c\u0131.cs",
+              "RelativeToolTip": "VarlikKatmani\\Kullan\u0131c\u0131.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\IModel.cs",
+              "RelativeDocumentMoniker": "VarlikKatmani\\IModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\IModel.cs",
+              "RelativeToolTip": "VarlikKatmani\\IModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToplamTutar.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\ToplamTutar.cs",
+              "RelativeDocumentMoniker": "VarlikKatmani\\ToplamTutar.cs",
+              "ToolTip": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\VarlikKatmani\\ToplamTutar.cs",
+              "RelativeToolTip": "VarlikKatmani\\ToplamTutar.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:53:19.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmSat\u0131sAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmSat\u0131sAdd.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\KasiyerViews\\FrmSat\u0131sAdd.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmSat\u0131sAdd.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmSat\u0131sAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmSatis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmSatis.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\KasiyerViews\\FrmSatis.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmSatis.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmSatis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmMusteriSil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmMusteriSil.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\KasiyerViews\\FrmMusteriSil.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmMusteriSil.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmMusteriSil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmMusteriEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmMusteriEkle.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\KasiyerViews\\FrmMusteriEkle.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmMusteriEkle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmMusteriEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmMusteri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmMusteri.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\KasiyerViews\\FrmMusteri.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmMusteri.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmMusteri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmGuncelle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmGuncelle.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\KasiyerViews\\FrmGuncelle.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmGuncelle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmGuncelle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmAyarlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmAyarlar.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\KasiyerViews\\FrmAyarlar.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmAyarlar.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\KasiyerViews\\FrmAyarlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmUrunList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmUrunList.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\AdminViews\\FrmUrunList.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmUrunList.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmUrunList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmUrunGuncelle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmUrunGuncelle.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\AdminViews\\FrmUrunGuncelle.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmUrunGuncelle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmUrunGuncelle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmUrun.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmUrun.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\AdminViews\\FrmUrun.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmUrun.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmUrun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmToplamGuncelle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmToplamGuncelle.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\AdminViews\\FrmToplamGuncelle.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmToplamGuncelle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmToplamGuncelle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmToplam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmToplam.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\AdminViews\\FrmToplam.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmToplam.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmToplam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmSil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\Downloads\\Compressed\\TeknolojiMagazasi\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmSil.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasi\\AdminViews\\FrmSil.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmSil.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Masa\u00FCst\u00FC\\Abdulkadir Akansu\\G\u00F6rsel II Proje\\TeknolojiMagazasi\\TeknolojiMagazasi\\AdminViews\\FrmSil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-29T15:53:19.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
